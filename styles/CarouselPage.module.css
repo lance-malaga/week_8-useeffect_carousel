@@ -1,0 +1,11 @@
+.main {
+    margin: 5em 3em;
+}
+.link {
+    font-size: 25px;
+	border-bottom: 3px solid;
+	transition: opacity .3s ease-in-out;
+}
+.link:hover {
+	opacity: 0.5;
+}
